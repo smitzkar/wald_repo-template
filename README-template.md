@@ -1,8 +1,9 @@
 # Welcome to Project-Name!  
+(maybe add some kind of fancy burning match banner?)
 
 very **short** description of: 
 - what it is 
-- in what context it was developed
+- in what context it was developed 
 
 ```A simple DIY "drone" streaming either live camera or infrared feed. Part of the [TechTales exhibition at UNI_VERSUM.](https://linktothething.notarealwebsite.com)```
 
@@ -54,3 +55,7 @@ For a quick guide on how to get started with bela, see: [linktosomegoodplace](ht
 ```
 
 ## Anything Else? 
+
+## Links (to do)
+
+links to lifo website, relevant outside stuff
