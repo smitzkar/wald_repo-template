@@ -42,7 +42,6 @@ Only works with Arduino IDE >= 2.13 !
 - Open browser and enjoy!
 
 If anything went wrong, check common errors and solutions in docs/troubleshooting.md, or use our [handy little prompt template](https://github.com/smitzkar/wald-troubleshooting-prompt/) to let your favourite llm guide you through the process.  
-```
 
 If it's your first time using Arduino, we recommend you follow [this guide.](https://randomnerdtutorials.com/installing-esp32-arduino-ide-2-0/)
 
