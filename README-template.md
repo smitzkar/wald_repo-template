@@ -1,4 +1,4 @@
-# Welcome to <Project-Name>!  
+# Welcome to \<Project-Name\>!  
 (maybe add some kind of fancy burning match banner?)
 
 very **short** description of: 
