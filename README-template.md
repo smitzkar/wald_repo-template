@@ -58,6 +58,7 @@ For a quick guide on how to get started with bela, see: [linktosomegoodplace](ht
 
 ## Links 
 
-[Our website lifolab](https://www.lifolab.de)
+Website of Reallabor Wald: [lifolab.de](https://www.lifolab.de)
 
-[Fachgebiet Nachrichtenübertragung an der Technischen Universität Berlin](https://www.tu.berlin/nue)
+Fachgebiet Nachrichtenübertragung an der Technischen Universität Berlin: [tu.berlin/nue](https://www.tu.berlin/nue)
+
